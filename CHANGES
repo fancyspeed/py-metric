@@ -1,0 +1,8 @@
+* 1.0 by 2013-08-08
+    * Implemented basic methods
+    * Added README and examples
+* 1.1 by 2013-08-27
+    * Modified Implementation of Consine
+    * Fixed bugs of exception classes
+    * Changed interface functions, which accept matrices as input
+    * Changed class files, which can be excuted in commend lines and accept files as input
