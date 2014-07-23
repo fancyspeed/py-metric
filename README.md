@@ -51,9 +51,6 @@ Group 2 is for classification task. Inputs of y_truth should be a list of 0-1 va
 
 ##Author
 
-pymetric is developed and maintained by Zuotao Liu (liuzuotao@snda.com).
+pymetric is developed and maintained by Zuotao Liu (zuotaoliu@126.com).
 
-##Copyright
-
-Copyright (c) 2013-2020 Shanda Innovations. All rights reserved.
 
