@@ -28,7 +28,7 @@ The all_in_one interface of pymetric is AllMetrics.measure(y_truth, y_pred, meth
 * y_pred : a list of float, or filename that contains a value each line.
 * method : several options as follows:
 
-# Group 1
+### Group 1
 
 Group 1 is for regression task. Inputs of y_truth should be a list of floats.
 
@@ -38,7 +38,7 @@ Group 1 is for regression task. Inputs of y_truth should be a list of floats.
 *  ndcg : NDCG.ndcg
 *  cos : Cosine.cos
 
-# Group 2
+### Group 2
 
 Group 2 is for classification task. Inputs of y_truth should be a list of 0-1 values.
 
@@ -48,6 +48,10 @@ Group 2 is for classification task. Inputs of y_truth should be a list of 0-1 va
 *  ap : MAP.ap
 *  auc : AUC.auc
 *  ndcg : NDCG.ndcg
+
+## TODO list: 
+
+* [AMS] (https://www.kaggle.com/c/higgs-boson/details/evaluation)
 
 ##Author
 
